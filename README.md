@@ -32,7 +32,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/catapult.git
+   git clone https://github.com/LukaMarkovicrn/Catapult.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
